@@ -431,3 +431,16 @@ h6,
 #social-buttons2-h .btn-social {
   color: #232323;
 }
+#content8-p .mbr-section-title,
+#content8-p p {
+  text-align: right;
+  color: #fff;
+}
+#content8-p DIV {
+  color: #efefef;
+}
+#content8-f .mbr-section-title,
+#content8-f p {
+  text-align: right;
+  color: #fff;
+}
